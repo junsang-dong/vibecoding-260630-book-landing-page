@@ -695,9 +695,7 @@ h3 {
 .author__photo img {
   width: 280px;
   height: 280px;
-  border-radius: 24px;
-  object-fit: cover;
-  box-shadow: var(--shadow-md);
+  object-fit: contain;
 }
 
 .author__info h3 {
